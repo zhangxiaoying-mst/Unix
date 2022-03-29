@@ -1,6 +1,21 @@
 # <<Unix高级系统编程练习>>  
 ## 文件IO
+* 文件描述符
+* 函数open
+* 函数creat
+* 函数lseek
+* 函数read
+* 函数write
+* 函数dup和dup2
+* 函数fcntl
+* 函数ioctl
 ## 进程
+* 进程标识符
+* 函数fork
+* 函数exit
+* 函数wait和waitpid
+* 函数exec
 ## 线程
 ## 网络SOCKET
 ## 信号
+
